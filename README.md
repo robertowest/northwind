@@ -61,4 +61,4 @@ ruff format .
 
 ## Modelo de datos
 
-![ER](./northwind_psql/ER.png)
+![ER](./northwind_sql/ER.png)
